@@ -1,2 +1,0 @@
-# SWEETtooth
- online recipe site
