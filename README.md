@@ -7,16 +7,16 @@ use these recipes. they may comment and suggest ideas on how to improve the reci
 the are public. however a private box is also provided for viewers that wish to directly speak to sweettooth.
 #  Features
 Sweettooth features pages:
-1  Home page
- 2 Elements page
- 3 About page
- 4 Contact page
- 5 the 5 recipes provided
+1. Home page
+ 2. Elements page
+ 3. About page
+ 4. Contact page
+ 5. the 5 recipes provided
 
 #  Aim
 promoting home baked meals that put your local bakeries to shame
 
 #  Advantages
-1 Improving people's kitchen skills one recipe at a time
-2 Increased family time
-3 Promoting positive vibes and energy
+1. Improving people's kitchen skills one recipe at a time
+2. Increased family time
+3. Promoting positive vibes and energy
